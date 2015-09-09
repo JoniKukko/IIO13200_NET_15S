@@ -20,9 +20,57 @@ namespace Tehtava2Lotto
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        private BLLotto lottokone;
+
+
+
         public MainWindow()
         {
+            // laitetaan lottokone pyörimään!
+            this.lottokone = new BLLotto();
             InitializeComponent();
         }
+
+
+
+        private void btnDraw_Click(object sender, RoutedEventArgs e)
+        {
+            int Tyyppi, Lkm;
+
+            // tarkistetaan syötteet, pitäisiköhän olla jossain muualla..
+            if (int.TryParse(cmbChooseGame.SelectedIndex.ToString(), out Tyyppi) && int.TryParse(txtDrawnCount.Text, out Lkm))
+            {
+
+                // vaihdetaan lottokoneen tyyppi
+                this.lottokone.Tyyppi = Tyyppi;
+
+                // loopataan haluttu määrä rivejä
+                for (int i=0; i< Lkm; i++)
+                {
+                    // pyydetään lottokoneelta uutta riviä
+                    List<int> Numerot = lottokone.ArvoRivi();
+
+                    // tulostetaan rivit
+                    foreach (int Numero in Numerot)
+                    {
+                        txtRivit.Text += Numero + " ";
+                    }
+                    txtRivit.Text += "\r\n";
+                }
+            } else
+            {
+                txtRivit.Text += "VIRHE!!\r\n";
+            }
+        }
+
+
+
+        private void btnClear_Click(object sender, RoutedEventArgs e)
+        {
+            txtRivit.Text = "";
+        }
+
+
     }
 }

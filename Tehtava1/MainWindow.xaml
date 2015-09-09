@@ -5,8 +5,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IIO13200_15S"
         mc:Ignorable="d"
-        Title="Tehtävä 1: K-S Ikkunat Oy" Height="350" Width="525" FontSize="18">
+        Title="Tehtävä 1: K-S Ikkunat Oy" Height="350" Width="525" >
     <Grid>
-        
+
+
+        <Label x:Name="lblWindowWidth" Content="Ikkunan leveys" HorizontalAlignment="Right" Margin="0,15,115,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtWindowWidth" HorizontalAlignment="Right" Height="20" Margin="0,20,10,0" Padding="0,0,0,0" TextWrapping="Wrap" Text="1200" VerticalAlignment="Top" Width="100" TextAlignment="Center" />
+
+        <Label x:Name="lblWindowHeight" Content="Ikkunan korkeus" HorizontalAlignment="Right" Margin="0,55,115,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtWindowHeight" HorizontalAlignment="Right" Height="20" Margin="0,60,10,0" Padding="0,0,0,0" TextWrapping="Wrap" Text="900" VerticalAlignment="Top" Width="100" TextAlignment="Center"/>
+
+        <Label x:Name="lblWindowHolderWidth" Content="Karmipuun leveys" HorizontalAlignment="Right" Margin="0,95,115,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtWindowHolderWidth" HorizontalAlignment="Right" Height="20" Margin="0,100,10,0" Padding="0,0,0,0" TextWrapping="Wrap" Text="45" VerticalAlignment="Top" Width="100" TextAlignment="Center"/>
+
+        <Button x:Name="btnCalculate" Content="Laske pinta-ala ja piiri" HorizontalAlignment="Right" Margin="0,130,10,0" Padding="0,0,0,0" VerticalAlignment="Top" Width="200" Height="20" Click="btnCalculate_Click" />
+
+
+
+        <Label x:Name="lblWindowArea" Content="Ikkunan pinta-ala" HorizontalAlignment="Right" Margin="0,195,115,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="blcWindowArea" HorizontalAlignment="Right" Margin="0,200,10,0" TextWrapping="Wrap" Text="1080000" VerticalAlignment="Top" Height="20" Width="100" TextAlignment="Center" Padding="0,1,0,0" />
+
+        <Label x:Name="lblHolderPerimeter" Content="Karmin piiri" HorizontalAlignment="Right" Margin="0,225,115,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="blcHolderPerimeter" HorizontalAlignment="Right" Margin="0,230,10,0" TextWrapping="Wrap" Text="4560" VerticalAlignment="Top" Height="20" Width="100" TextAlignment="Center" Padding="0,1,0,0" />
+
+        <Label x:Name="lblHolderArea" Content="Karmin pinta-ala" HorizontalAlignment="Right" Margin="0,255,115,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="blcHolderArea" HorizontalAlignment="Right" Margin="0,260,10,0" TextWrapping="Wrap" Text="197100" VerticalAlignment="Top" Height="20" Width="100" TextAlignment="Center" Padding="0,1,0,0" />
+
+
+
     </Grid>
 </Window>

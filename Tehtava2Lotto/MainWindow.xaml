@@ -5,8 +5,28 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tehtava2Lotto"
         mc:Ignorable="d"
-        Title="This can be your lucky Day!" Height="350" Width="525">
+        Title="This could be your lucky day" Height="350" Width="250">
     <Grid>
+
         
+        <Label x:Name="lblChooseGame" Content="Choose the game" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Margin="10,15,0,0" Padding="0,0,0,0"/>
+        <ComboBox x:Name="cmbChooseGame" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,10,0" Padding="5,1,0,0"  Width="100" Height="20">
+            <ComboBoxItem Content="Suomi" x:Uid="0" />
+            <ComboBoxItem Content="Viking Lotto" x:Uid="1"/>
+            <ComboBoxItem Content="Eurojackpot" x:Uid="2"/>
+        </ComboBox>
+
+
+        <Label x:Name="lblDrawnCount" Content="Number of drawns" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Margin="10,45,0,0" Padding="0,0,0,0"/>
+        <TextBox x:Name="txtDrawnCount" Text="1" HorizontalAlignment="Right" Height="20" Width="100" Margin="0,45,10,0" Padding="0,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center"/>
+
+        <Button x:Name="btnDraw" Content="Draw" HorizontalAlignment="Left" Margin="10,80,0,0" Padding="0,0,0,0" VerticalAlignment="Top" Width="100" Height="20" Click="btnDraw_Click"  />
+        <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Right" Margin="0,80,10,0" Padding="0,0,0,0" VerticalAlignment="Top" Width="100" Height="20" Click="btnClear_Click"/>
+
+
+        <TextBox x:Name="txtRivit" HorizontalAlignment="Left" Margin="10,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" Height="180"/>
+
+
+
     </Grid>
 </Window>
