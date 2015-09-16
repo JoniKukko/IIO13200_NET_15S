@@ -1,0 +1,58 @@
+﻿<Window x:Class="Tehtava3.MainWindow"
+        Name="Tehtava3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tehtava3"
+        mc:Ignorable="d"
+        Title="Tehtävä 3 - Oudot oliot SM-liigassa" Height="220" Width="600" FontFamily="Verdana" FontSize="12" ResizeMode="NoResize">
+    <Grid>
+
+
+        <!-- LABELS -->
+        <Label x:Name="lblFirstName" Content="Etunimi" Margin="15,20,0,0" Padding="0,2,0,0" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Label x:Name="lblLastName" Content="Sukunimi" Margin="15,50,0,0" Padding="0,2,0,0" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Label x:Name="lblTransferPrice" Content="Siirtohinta" Margin="15,80,0,0" Padding="0,2,0,0" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Label x:Name="lblClub" Content="Seura" Margin="15,110,0,0" Padding="0,2,0,0" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" />
+
+
+        <!-- TEXTBOXES -->
+        <TextBox x:Name="txtFirstName" Text="" Margin="90,19,0,0" Padding="0,2,0,0" Height="22" Width="120" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtLastName" Text="" Margin="90,49,0,0" Padding="0,2,0,0" Height="22" Width="120" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtTransferPrice" Text="" Margin="90,79,0,0" Padding="0,2,0,0" Height="22" Width="120" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+
+        <!-- COMBOBOXES-->
+        <ComboBox x:Name="cmbClub" Margin="90,109,0,0" Padding="2,2,0,0" Height="22" Width="120" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+
+        <!-- BUTTONS-->
+        <Button x:Name="btnNewPlayer" Content="Luo uusi pelaaja" Margin="220,19,0,0" Padding="0,0,0,0" Height="22" Width="130" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnNewPlayer_Click" />
+        <Button x:Name="btnSavePlayer" Content="Talleta pelaaja" Margin="220,49,0,0" Padding="0,0,0,0" Height="22" Width="130" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnSavePlayer_Click"/>
+        <Button x:Name="btnDeletePlayer" Content="Poista pelaaja" Margin="220,79,0,0" Padding="0,0,0,0" Height="22" Width="130" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnDeletePlayer_Click" />
+        <Button x:Name="btnWritePlayers" Content="Kirjoita pelaajat" Margin="220,109,0,0" Padding="0,0,0,0" Height="22" Width="130" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Button x:Name="btnClose" Content="Lopetus" Margin="220,139,0,0" Padding="0,0,0,0" Height="22" Width="130" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnClose_Click" />
+
+
+        <!-- LISTBOXES -->
+        <ListBox x:Name="lsbPlayers" Margin="360,19,0,0" Padding="0,0,0,0" Height="142" Width="220" HorizontalAlignment="Left" VerticalAlignment="Top" SelectionChanged="lsbPlayers_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding KokoNimi}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+
+        
+        <!-- STATUSBAR -->
+        <StatusBar HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="594" Margin="0,0,0,0">
+            <TextBlock x:Name="txtError" TextWrapping="Wrap" />
+        </StatusBar>
+        
+        
+    </Grid>
+</Window>

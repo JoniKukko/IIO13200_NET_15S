@@ -26,3 +26,9 @@ Q:\Data\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\MainWindow.baml
 Q:\Data\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.g.resources
 Q:\Data\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.Properties.Resources.resources
 Q:\Data\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\Tehtava1.csproj.GenerateResource.Cache
+Z:\dotnet\IIO13200_NET_15S\Tehtava1\bin\Debug\IIO13200_15S.exe.config
+Z:\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.exe
+Z:\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.pdb
+E:\Data\dotnet\IIO13200_NET_15S\Tehtava1\bin\Debug\IIO13200_15S.exe.config
+E:\Data\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.exe
+E:\Data\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.pdb
