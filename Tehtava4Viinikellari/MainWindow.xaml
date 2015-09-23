@@ -1,0 +1,18 @@
+﻿<Window x:Class="Tehtava4Viinikellari.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tehtava4Viinikellari"
+        mc:Ignorable="d"
+        Title="Tehtävä 4 - Viinikellari" Height="300" Width="185">
+    <Grid>
+
+
+        <Button x:Name="buttonXml1" Content="XmlDataProvider" Margin="20,20,0,0" />
+        <Button x:Name="buttonXml2" Content="DataSet" Margin="20,60,0,0" />
+        <Button x:Name="buttonXelement" Content="XElement" Margin="20,100,0,0" Click="buttonXelement_Click" />
+
+
+    </Grid>
+</Window>
