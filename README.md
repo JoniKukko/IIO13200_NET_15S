@@ -8,3 +8,6 @@ Tehty kokonaan.
 
 ## Tehtävä 3
 Tehty muutoin paitsi tiedostoon tallentamista ei ole.
+
+## Tehtävä 4
+Tehty kokonaan.
