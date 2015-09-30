@@ -25,3 +25,17 @@ Q:\Data\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\MainWindow.baml
 Q:\Data\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\Tehtava2Lotto.g.resources
 Q:\Data\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\Tehtava2Lotto.Properties.Resources.resources
 Q:\Data\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\Tehtava2Lotto.csproj.GenerateResource.Cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\bin\Debug\Tehtava2Lotto.exe.config
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\bin\Debug\Tehtava2Lotto.exe
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\bin\Debug\Tehtava2Lotto.pdb
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\Tehtava2Lotto.csprojResolveAssemblyReference.cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\MainWindow.g.cs
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\App.g.cs
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\Tehtava2Lotto_MarkupCompile.cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\Tehtava2Lotto_MarkupCompile.lref
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\MainWindow.baml
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\Tehtava2Lotto.g.resources
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\Tehtava2Lotto.Properties.Resources.resources
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\Tehtava2Lotto.csproj.GenerateResource.Cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\Tehtava2Lotto.exe
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava2Lotto\obj\Debug\Tehtava2Lotto.pdb

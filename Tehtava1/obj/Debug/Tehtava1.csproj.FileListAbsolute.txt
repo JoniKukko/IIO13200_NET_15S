@@ -32,3 +32,17 @@ Z:\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.pdb
 E:\Data\dotnet\IIO13200_NET_15S\Tehtava1\bin\Debug\IIO13200_15S.exe.config
 E:\Data\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.exe
 E:\Data\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.pdb
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\bin\Debug\IIO13200_15S.exe.config
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\bin\Debug\IIO13200_15S.exe
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\bin\Debug\IIO13200_15S.pdb
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\Tehtava1.csprojResolveAssemblyReference.cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\MainWindow.g.cs
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\App.g.cs
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S_MarkupCompile.cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S_MarkupCompile.lref
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\MainWindow.baml
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.g.resources
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.Properties.Resources.resources
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\Tehtava1.csproj.GenerateResource.Cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.exe
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.pdb
