@@ -11,3 +11,9 @@ Tehty muutoin paitsi tiedostoon tallentamista ei ole.
 
 ## Tehtävä 4
 Tehty kokonaan.
+
+## Tehtävä 5
+Tehty kokonaan.
+
+## Tehtävä 6
+Tekemättä.
