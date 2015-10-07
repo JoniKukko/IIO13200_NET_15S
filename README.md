@@ -17,3 +17,6 @@ Tehty kokonaan.
 
 ## Tehtävä 6
 Tekemättä.
+
+## Tehtävä 7
+Tehty kokonaan.
