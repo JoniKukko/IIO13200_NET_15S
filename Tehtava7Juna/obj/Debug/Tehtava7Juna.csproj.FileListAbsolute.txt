@@ -1,0 +1,16 @@
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\bin\Debug\Tehtava7Juna.exe.config
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\obj\Debug\Tehtava7Juna.csprojResolveAssemblyReference.cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\obj\Debug\MainWindow.g.cs
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\obj\Debug\App.g.cs
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\obj\Debug\Tehtava7Juna_MarkupCompile.cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\obj\Debug\Tehtava7Juna_MarkupCompile.lref
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\bin\Debug\Tehtava7Juna.exe
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\bin\Debug\Tehtava7Juna.pdb
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\bin\Debug\Newtonsoft.Json.dll
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\obj\Debug\App.baml
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\obj\Debug\MainWindow.baml
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\obj\Debug\Tehtava7Juna.g.resources
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\obj\Debug\Tehtava7Juna.Properties.Resources.resources
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\obj\Debug\Tehtava7Juna.csproj.GenerateResource.Cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\obj\Debug\Tehtava7Juna.exe
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava7Juna\obj\Debug\Tehtava7Juna.pdb

@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava5Lasnaolot", "Tehtav
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava6TestBench", "\\storage\homes\H3247\Dox\Downloads\IIO13200-ADONET-DEMO-master\IIO13200-ADONET-DEMO-master\Tehtava6TestBench.csproj", "{078B472F-E0BE-4705-A004-3F2A11A96896}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoJSON", "DemoJSON\DemoJSON.csproj", "{DA230989-E086-44EC-8C59-769CF0CF3780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava7Juna", "Tehtava7Juna\Tehtava7Juna.csproj", "{7E1214AC-F825-44C6-8E72-83B0F1054D19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{078B472F-E0BE-4705-A004-3F2A11A96896}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{078B472F-E0BE-4705-A004-3F2A11A96896}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{078B472F-E0BE-4705-A004-3F2A11A96896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA230989-E086-44EC-8C59-769CF0CF3780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA230989-E086-44EC-8C59-769CF0CF3780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA230989-E086-44EC-8C59-769CF0CF3780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA230989-E086-44EC-8C59-769CF0CF3780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1214AC-F825-44C6-8E72-83B0F1054D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1214AC-F825-44C6-8E72-83B0F1054D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1214AC-F825-44C6-8E72-83B0F1054D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1214AC-F825-44C6-8E72-83B0F1054D19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
