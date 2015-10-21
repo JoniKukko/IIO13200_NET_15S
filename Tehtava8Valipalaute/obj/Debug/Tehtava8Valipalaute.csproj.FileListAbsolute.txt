@@ -1,0 +1,15 @@
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\bin\Debug\Tehtava8Valipalaute.exe.config
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\bin\Debug\Tehtava8Valipalaute.exe
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\bin\Debug\Tehtava8Valipalaute.pdb
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\obj\Debug\Tehtava8Valipalaute.csprojResolveAssemblyReference.cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\obj\Debug\MainWindow.g.cs
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\obj\Debug\App.g.cs
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\obj\Debug\Tehtava8Valipalaute_MarkupCompile.cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\obj\Debug\Tehtava8Valipalaute_MarkupCompile.lref
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\obj\Debug\App.baml
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\obj\Debug\MainWindow.baml
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\obj\Debug\Tehtava8Valipalaute.g.resources
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\obj\Debug\Tehtava8Valipalaute.Properties.Resources.resources
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\obj\Debug\Tehtava8Valipalaute.csproj.GenerateResource.Cache
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\obj\Debug\Tehtava8Valipalaute.exe
+F:\Public\dotnet\IIO13200_NET_15S\Tehtava8Valipalaute\obj\Debug\Tehtava8Valipalaute.pdb
