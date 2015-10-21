@@ -8,7 +8,7 @@ using System.Windows;
 
 namespace Tehtava8Valipalaute
 {
-    class Feedback
+    public class Feedback
     {
         public string Date { get; set; }
         public string Name { get; set; }

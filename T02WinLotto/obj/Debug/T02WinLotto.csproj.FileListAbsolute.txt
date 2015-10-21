@@ -40,3 +40,16 @@ F:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\WinLotto.Properties.Reso
 F:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\T02WinLotto.csproj.GenerateResource.Cache
 F:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\WinLotto.exe
 F:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\WinLotto.pdb
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\bin\Debug\WinLotto.exe.config
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\WinLotto.exe
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\WinLotto.pdb
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\bin\Debug\WinLotto.exe
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\bin\Debug\WinLotto.pdb
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\T02WinLotto.csprojResolveAssemblyReference.cache
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\MainWindow.baml
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\MainWindow.g.cs
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\App.g.cs
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\WinLotto_MarkupCompile.cache
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\WinLotto.g.resources
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\WinLotto.Properties.Resources.resources
+E:\Public\dotnet\IIO13200_NET_15S\T02WinLotto\obj\Debug\T02WinLotto.csproj.GenerateResource.Cache
