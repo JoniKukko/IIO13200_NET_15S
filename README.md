@@ -23,3 +23,6 @@ Tehty kokonaan.
 
 ## Tehtävä 8
 Tehty kokonaan.
+
+## Tehtävä 9
+Tehty kokonaan.
