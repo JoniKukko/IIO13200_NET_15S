@@ -49,6 +49,27 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSiteTest", "WebSiteTest\
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Tehtava10LevykauppaX", "Tehtava10LevykauppaX\", "{3515173D-CBE0-473D-94CC-16199C1931ED}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_7462"
+		Debug.AspNetCompiler.PhysicalPath = "Tehtava10LevykauppaX\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_7462\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_7462"
+		Release.AspNetCompiler.PhysicalPath = "Tehtava10LevykauppaX\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_7462\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "7462"
+		SlnRelativePath = "Tehtava10LevykauppaX\"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +128,10 @@ Global
 		{18553340-B766-41B5-8A49-CD9C934E5789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18553340-B766-41B5-8A49-CD9C934E5789}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{18553340-B766-41B5-8A49-CD9C934E5789}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{3515173D-CBE0-473D-94CC-16199C1931ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3515173D-CBE0-473D-94CC-16199C1931ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3515173D-CBE0-473D-94CC-16199C1931ED}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3515173D-CBE0-473D-94CC-16199C1931ED}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -27,3 +27,7 @@ Tehty kokonaan.
 ## Tehtävä 9
 Tehty kokonaan.
 Tehtävä löytyy WebSiteTest -> DemoxOy.aspx
+
+## Tehtävä 10
+Tehty kokonaan.
+Tehtävä löytyy tiedostoista LevykauppaX.aspx ja LevykauppaX2.aspx
