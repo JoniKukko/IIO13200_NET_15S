@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<palautteet>
+  <palaute>
+    <pvm>1.11.2015 0:00:00</pvm>
+    <tekija>Juice Läskinen</tekija>
+    <opintojaksonimi>C#.Net</opintojaksonimi>
+    <opintojaksokoodi>IIO12345</opintojaksokoodi>
+    <opittu>paljon hyvää ja törkeän tärkeää</opittu>
+    <haluanoppia>tietoturvasta tsäbää</haluanoppia>
+    <hyvaa>demot</hyvaa>
+    <parannettavaa>enemmän omaa tekemistä</parannettavaa>
+    <muuta>GitHub ok </muuta>
+  </palaute>
+  <palaute>
+    <pvm>1.11.2015 0:00:00</pvm>
+    <tekija>Esa Vesa</tekija>
+    <opintojaksonimi>C#.Net</opintojaksonimi>
+    <opintojaksokoodi>IIO12345</opintojaksokoodi>
+    <opittu>ASP.NET perusteet</opittu>
+    <haluanoppia>autentikointi ja hashaus</haluanoppia>
+    <hyvaa>hyvää</hyvaa>
+    <parannettavaa>parannettavaa</parannettavaa>
+    <muuta>blaah blaah</muuta>
+  </palaute>
+  <palaute>
+    <pvm>29.10.2015 0:00:00</pvm>
+    <tekija>Joni</tekija>
+    <opintojaksonimi>Joni</opintojaksonimi>
+    <opintojaksokoodi>Joni</opintojaksokoodi>
+    <opittu>Kaikkea kivaa</opittu>
+    <haluanoppia>Enemmän lisää</haluanoppia>
+    <hyvaa>Kaikki ihanaa</hyvaa>
+    <parannettavaa>Ei mitään!
+</parannettavaa>
+    <muuta>gihub on paras
+ja salesa</muuta>
+  </palaute>
+  <palaute>
+    <pvm>30.10.2015 0:00:00</pvm>
+    <tekija>Valtteri</tekija>
+    <opintojaksonimi>.NET-ohjelmointi OSA2</opintojaksonimi>
+    <opintojaksokoodi>iio14321</opintojaksokoodi>
+    <opittu>Sun palaute</opittu>
+    <haluanoppia>Mun palaute</haluanoppia>
+    <hyvaa>Kenen palaute</hyvaa>
+    <parannettavaa>Dotnettiä</parannettavaa>
+    <muuta>ei muuta</muuta>
+  </palaute>
+  <palaute>
+    <pvm>26.11.2015 0:00:00</pvm>
+    <tekija>53425435423</tekija>
+    <opintojaksonimi>trewtweterwt</opintojaksonimi>
+    <opintojaksokoodi>fgsdgsdffgffd</opintojaksokoodi>
+    <opittu>bcvbcbbrtb</opittu>
+    <haluanoppia>5yteryrtyr</haluanoppia>
+    <hyvaa>87688</hyvaa>
+    <parannettavaa>hfgdhdfhgdf</parannettavaa>
+    <muuta>setwerfge</muuta>
+  </palaute>
+  <palaute>
+    <pvm>13.11.2015 0:00:00</pvm>
+    <tekija>hg</tekija>
+    <opintojaksonimi>gf</opintojaksonimi>
+    <opintojaksokoodi>hgdf</opintojaksokoodi>
+    <opittu>hgdf</opittu>
+    <haluanoppia>hgfd</haluanoppia>
+    <hyvaa>hg</hyvaa>
+    <parannettavaa>hgf</parannettavaa>
+    <muuta>hgdf</muuta>
+  </palaute>
+  <palaute>
+    <pvm>5.11.2015 0:00:00</pvm>
+    <tekija>Joonas</tekija>
+    <opintojaksonimi>Joonas</opintojaksonimi>
+    <opintojaksokoodi>Joonas</opintojaksokoodi>
+    <opittu>Joonas</opittu>
+    <haluanoppia>Joonas</haluanoppia>
+    <hyvaa>Joonas</hyvaa>
+    <parannettavaa>Joonas</parannettavaa>
+    <muuta>Joonas</muuta>
+  </palaute>
+</palautteet>
