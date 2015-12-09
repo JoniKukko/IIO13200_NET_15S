@@ -1,0 +1,31 @@
+﻿<USERS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <USER>
+    <USERNAME>Musti</USERNAME>
+    <HASH>c6a567696cf4453d25b7ca6673cc16df99ab23f6425986dbbd8e3bb61545192f</HASH>
+    <PRACTICES>
+    </PRACTICES>
+  </USER>
+  <USER>
+    <USERNAME>Iivo</USERNAME>
+    <HASH>75f8240ec95800eb13f59938c669235cd181496271d9ac17113bd63767795453</HASH>
+    <PRACTICES>
+    </PRACTICES>
+  </USER>
+  <USER>
+    <USERNAME>Tero</USERNAME>
+    <HASH>ba2addbf481bdf4a0178cbf5608e681cb9af519d85fe4d51efe88a4eed9673ed</HASH>
+    <PRACTICES>
+    </PRACTICES>
+  </USER>
+  <USER>
+    <USERNAME>Ville</USERNAME>
+    <HASH>0ebd25a341eadf08648721ee9bb9c672ff33fc82b54a6e5aae88b401e3745dd5</HASH>
+    <PRACTICES>
+      <PRACTICE>
+        <STARTTIME></STARTTIME>
+        <ENDTIME></ENDTIME>
+        <TRAVEL></TRAVEL>
+      </PRACTICE>
+    </PRACTICES>
+  </USER>
+</USERS>
