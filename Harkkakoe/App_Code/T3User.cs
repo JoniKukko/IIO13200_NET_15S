@@ -5,11 +5,11 @@ using System.Xml.Serialization;
 public class T3User
 {
     [XmlElement("USERNAME")]
-    public string username;
+    public string username { get; set; }
 
     [XmlElement("HASH")]
-    public string hash;
+    public string hash { get; set; }
 
     [XmlElement("PRACTICES")]
-    public List<T3Practice> practices = new List<T3Practice>();
+    public List<T3Practice> practices { get; set; }
 }

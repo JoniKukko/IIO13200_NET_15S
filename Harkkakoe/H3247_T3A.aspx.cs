@@ -8,14 +8,28 @@ using System.Text;
 
 public partial class H3247_T3A : System.Web.UI.Page
 {
-    private T3XMLdata XMLdata = new T3XMLdata();
-    private T3User user = new T3User();
-    private bool loggedIn = false;
+
+    private T3XMLdata XMLdata {
+        get { return (T3XMLdata)Session["XMLdata"]; }
+        set { Session["XMLdata"] = value; }
+    }
+    private T3User user {
+        get { return (T3User)Session["user"]; }
+        set { Session["user"] = value; }
+    }
+
 
 
     protected void Page_Load(object sender, EventArgs e)
     {
-        this.loadXML();
+        if (this.user != null)
+        {
+            Response.Redirect("H3247_T3_LoggedIn.aspx");
+        }
+        if (this.XMLdata == null)
+        {
+            this.loadXML();
+        }
     }
 
 
@@ -41,7 +55,6 @@ public partial class H3247_T3A : System.Web.UI.Page
 
 
 
-
     protected void buttonLogin_Click(object sender, EventArgs e)
     {
         string username = textboxUsername.Text;
@@ -55,8 +68,10 @@ public partial class H3247_T3A : System.Web.UI.Page
 
         if (this.user != null)
         {
-            this.loggedIn = true;
+            Response.Redirect("H3247_T3_LoggedIn.aspx");
         }
+
+        labelMessages.Text = "Väärä käyttäjätunnus tai salasana!";
     }
 
 
@@ -71,11 +86,11 @@ public partial class H3247_T3A : System.Web.UI.Page
             Byte[] result = hash.ComputeHash(encoding.GetBytes(value));
 
             foreach (Byte b in result)
+            {
                 builder.Append(b.ToString("x2"));
+            }
         }
 
         return builder.ToString();
     }
-
-
 }

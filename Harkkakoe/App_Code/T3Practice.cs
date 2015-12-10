@@ -5,11 +5,11 @@ using System.Xml.Serialization;
 public class T3Practice
 {
     [XmlElement("STARTTIME")]
-    public DateTime starttime;
+    public DateTime starttime { get; set; }
 
     [XmlElement("ENDTIME")]
-    public DateTime endtime;
+    public DateTime endtime { get; set; }
 
     [XmlElement("TRAVEL")]
-    public int travel;
+    public int travel { get; set; }
 }

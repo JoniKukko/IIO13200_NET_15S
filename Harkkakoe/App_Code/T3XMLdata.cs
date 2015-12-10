@@ -8,5 +8,5 @@ using System.Xml.Serialization;
 public class T3XMLdata
 {
     [XmlElement("USER")]
-    public List<T3User> users = new List<T3User>();
+    public List<T3User> users { get; set; }
 }
